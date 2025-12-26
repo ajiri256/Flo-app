@@ -1,0 +1,28 @@
+body{
+  background-color:rgba(0,0,0,0.32);
+  font-family:courier new,courier,monospace;
+}
+h2{
+  text-transform: uppercase;
+  color:black;
+  text-size:18px;
+}
+h1{
+  text-transform:uppercase;
+  text-size:24px;
+  text-align: left;
+}
+p{
+  text-size:12px;
+  text-transform:Capitalize;
+  line-height: 1.4em;
+}
+#contact{
+  font-style: italic;
+}
+img{
+  vertical-align:sup
+}
+h2.intro:first-letter{
+  font-size: 200%
+}

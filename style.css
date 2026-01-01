@@ -29,7 +29,7 @@ img.logo{
   height:1000px;
   border: 1px solid pink;
 }
-img.one,.img two{
+img.one,img.two{
   width:400px;
   height:500px;
   border: 2px ridge black;
